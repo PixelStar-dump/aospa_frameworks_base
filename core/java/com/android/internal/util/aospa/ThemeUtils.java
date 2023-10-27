@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.evolution;
+package com.android.internal.util.aospa;
 
 import static android.os.UserHandle.USER_SYSTEM;
 
@@ -136,7 +136,9 @@ public class ThemeUtils {
         overlays.addAll(mPkgs);
         return overlays;
     }
-
+    <!-- AttestationHooks -->
+    <java-symbol type="array" name="config_certifiedBuildProperties" />
+    <java-symbol type="string" name="config_stockFingerprint" />
     public List<OverlayInfo> getOverlayInfos(String category) {
         return getOverlayInfos(category, "android");
     }

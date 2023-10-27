@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.evolution;
+package com.android.internal.util.aospa;
 
 import android.app.Application;
 import android.content.Context;

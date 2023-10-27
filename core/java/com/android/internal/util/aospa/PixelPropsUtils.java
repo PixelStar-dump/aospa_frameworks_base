@@ -2,7 +2,7 @@
  * Copyright (C) 2020 The Pixel Experience Project
  *               2022 StatiXOS
  *               2021-2022 crDroid Android Project
- *               2019-2023 Evolution X
+ *               2019-2023 aospa X
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.evolution;
+package com.android.internal.util.aospa;
 
 import android.app.ActivityTaskManager;
 import android.app.Application;
