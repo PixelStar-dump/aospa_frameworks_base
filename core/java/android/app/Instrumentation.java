@@ -67,9 +67,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeoutException;
 
-import com.android.internal.util.evolution.AttestationHooks;
-import com.android.internal.util.evolution.GamesPropsUtils;
-import com.android.internal.util.evolution.PixelPropsUtils;
+import com.android.internal.util.aospa.AttestationHooks;
+import com.android.internal.util.aospa.GamesPropsUtils;
+import com.android.internal.util.aospa.PixelPropsUtils;
 
 /**
  * Base class for implementing application instrumentation code.  When running

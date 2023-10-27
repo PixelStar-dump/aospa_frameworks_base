@@ -282,7 +282,7 @@ import com.android.server.uri.NeededUriGrants;
 import com.android.server.uri.UriGrantsManagerInternal;
 import com.android.server.wallpaper.WallpaperManagerInternal;
 
-import com.android.internal.util.evolution.PixelPropsUtils;
+import com.android.internal.util.aospa.PixelPropsUtils;
 
 import java.io.BufferedReader;
 import java.io.File;
